@@ -3,8 +3,12 @@ This file has been edited by Shyam
 This line is written by Vibha Kumari.
 Okya Bye.this is written by suraj.
 this is fourth line.
+<<<<<<< HEAD
 Okya Bye.
 Hello,Today is second day.
 We are solving merge conflict in collaboration file.
 Okay No Issue.
 By
+=======
+Changing some content
+>>>>>>> 56f898792e56d30dc5d9f64973a0c66268ebf456
